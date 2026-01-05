@@ -1,28 +1,28 @@
 # Recommended Books for Data Structure : 
-1. Data Structure Using C - Rhema Thereja
-2. Graph Theory - Narisng Deo
+1. Data Structure Using C 
 
-## If you liked the effort, give a star to the repository 
+---
 
-# Wanna Contribute to this repository!
-Connect with me
+### 📘 Data Structures and Algorithms Made Easy
+**Author:** Reema Thareja  
 
+- One of the most popular books for **Indian university syllabi**
+- Clear explanations with examples
+- Widely used for **B.Tech / BCA / MCA / GATE / Interviews**
 
-## Connect with me
+📖 **Official Book Information:**  
+👉 https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/0198099304  
 
+📚 **Publisher (Oxford University Press):**  
+👉 https://global.oup.com/academic/product/data-structures-and-algorithms-made-easy-9780198099305
 
-<a href="https://www.linkedin.com/in/arik-mukherjee/" target="_blank">
-  <img src="assets/logos/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #0077B5, -5px -5px 15px #00aaff; border-radius: 50%;">
-</a>
-<a href="https://twitter.com/ArikMukherjee6" target="_blank">
-  <img src="assets/logos/twitter.png" alt="Twitter" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #1DA1F2, -5px -5px 15px #33ccff; border-radius: 50%;">
-</a>
-<a href="https://github.com/arikmukherjee" target="_blank">
-  <img src="assets/logos/github.png" alt="GitHub" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #181717, -5px -5px 15px #333333; border-radius: 50%;">
-</a>
-<a href="https://www.facebook.com/arikmukherjee.cs/" target="_blank">
-  <img src="assets/logos/facebook.png" alt="Facebook" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #1877F2, -5px -5px 15px #3399ff; border-radius: 50%;">
-</a>
-<a href="https://www.instagram.com/arikmukherjee3" target="_blank">
-  <img src="assets/logos/instagram.png" alt="Instagram" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #E4405F, -5px -5px 15px #ff5c8d; border-radius: 50%;">
-</a>
+🔍 **Free Preview / Sample Chapters:**  
+👉 https://books.google.com/books?id=Zp0mDwAAQBAJ
+
+📄 **Free Supplementary Notes (Legal):**
+- VTU / JNTU-aligned notes based on Reema Thareja’s syllabus  
+  👉 https://smartzworld.com/notes/data-structures-notes-vtu/
+- Exam-oriented DS notes (PDF)  
+  👉 https://www.studytonight.com/data-structures/
+
+⚠️ *Full PDF is not freely available due to copyright.*
